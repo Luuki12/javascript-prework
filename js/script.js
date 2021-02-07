@@ -59,7 +59,7 @@ if(playerInput == '1'){
 */
 
 
-//Game result 
+// Game result 
 
  let argComputerMove = computerMove;
  let argPlayerMove = playerMove;
